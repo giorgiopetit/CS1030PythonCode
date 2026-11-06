@@ -1,7 +1,7 @@
 card_valid = "9692"
 pin_correct = "2330"
 
-user_card=int(input)
+user_card=int(card_valid)
 
 print("Enter Correct Card Number")
 
